@@ -1,0 +1,56 @@
+
+
+body{
+
+  background-image: url("back1.jpg");
+  height: 900px;
+  background-position: center;
+
+
+}
+.portrait {
+  text-align: center;
+  border: 2px;
+  padding:6px;
+  margin: 20px;
+
+
+}
+.title {
+  text-align: center;
+}
+.portrait {
+  text-align: center;
+  background-color: blue;
+  border: 2px solid green;
+  padding: 6px;
+  margin: 20px;
+}
+.wed {
+  text-align: center;
+  background-color: blue;
+  border: 2px solid green;
+  padding: 40px;
+  margin: 20px;
+}
+.nat {
+  text-align: center;
+  background-color: pink;
+  border: 2px solid purple;
+  padding: 40px;
+  margin: 20px;
+}
+.mov {
+  text-align: center;
+  background-color: yellow;
+  border: 2px solid blue;
+  padding: 40px;
+  margin: 20px;
+}
+.imag {
+  text-align: center;
+  background-color: blue;
+  border: 2px solid yellow;
+  padding: 20px;
+  margin: 20px
+}
